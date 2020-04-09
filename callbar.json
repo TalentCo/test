@@ -1,9 +1,9 @@
 {
-"turnon":"0",
+"turnon":"1",
 "appn":"0",
 "adm":"0",
 "startap":"0",
 "apkuri":"0",
-"propeller":"0",
-"turnondialog":"0"
+"propeller":"1",
+"turnondialog":"1"
 }
